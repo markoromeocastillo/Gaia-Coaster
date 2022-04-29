@@ -16,8 +16,8 @@ struct BluetoothView: View {
                     .font(.largeTitle)
                     .frame(maxWidth: .infinity, alignment: .center)
                 List() {
-                    Text("placeholder 1")
-                    Text("placeholder 2")
+                    Text("placeholder One")
+                    Text("placeholder Two")
                 }.frame(height: 300)
 
                 Spacer()
