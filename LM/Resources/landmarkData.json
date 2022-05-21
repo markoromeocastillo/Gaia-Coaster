@@ -4,8 +4,9 @@
         "weight": "754 grams",
         "category": "Rivers",
         "city": "Twentynine Palms",
-        "state": "Moist",
+        "state": "Dehydrated",
         "id": 1001,
+        "waterLevel": 0.34,
         "isFeatured": true,
         "isFavorite": true,
         "park": "Joshua Tree National Park",
@@ -13,7 +14,7 @@
             "longitude": -116.166868,
             "latitude": 34.011286
         },
-        "description": "Suscipit inceptos est felis purus aenean aliquet adipiscing diam venenatis, augue nibh duis neque aliquam tellus condimentum sagittis vivamus, cras ante etiam sit conubia elit tempus accumsan libero, mattis per erat habitasse cubilia ligula penatibus curae. Sagittis lorem augue arcu blandit libero molestie non ullamcorper, finibus imperdiet iaculis ad quam per luctus neque, ligula curae mauris parturient diam auctor eleifend laoreet ridiculus, hendrerit adipiscing sociosqu pretium nec velit aliquam. Inceptos egestas maecenas imperdiet eget id donec nisl curae congue, massa tortor vivamus ridiculus integer porta ultrices venenatis aliquet, curabitur et posuere blandit magnis dictum auctor lacinia, eleifend dolor in ornare vulputate ipsum morbi felis. Faucibus cursus malesuada orci ultrices diam nisl taciti torquent, tempor eros suspendisse euismod condimentum dis velit mi tristique, a quis etiam dignissim dictum porttitor lobortis ad fermentum, sapien consectetur dui dolor purus elit pharetra. Interdum mattis sapien ac orci vestibulum vulputate laoreet proin hac, maecenas mollis ridiculus morbi praesent cubilia vitae ligula vel, sem semper volutpat curae mauris justo nisl luctus, non eros primis ultrices nascetur erat varius integer.",
+        "description": "Chamaedorea elegans, the neanthe bella palm or parlour palm, is a species of small palm tree native to the rainforests in Southern Mexico and Guatemala. The parlor palm is one of the most heavily sold houseplant palms in the world. It is one of several species with leaves that are harvested as xate.",
         "imageName": "turtlerock"
     },
     {
@@ -21,8 +22,9 @@
         "weight": "602 grams",
         "category": "Lakes",
         "city": "Port Alsworth",
-        "state": "Dehydrated",
+        "state": "Hydrated",
         "id": 1002,
+        "waterLevel": 0.62,
         "isFeatured": false,
         "isFavorite": false,
         "park": "Lake Clark National Park and Preserve",
@@ -30,7 +32,7 @@
             "longitude": -152.665167,
             "latitude": 59.980167
         },
-        "description": "Suscipit inceptos est felis purus aenean aliquet adipiscing diam venenatis, augue nibh duis neque aliquam tellus condimentum sagittis vivamus, cras ante etiam sit conubia elit tempus accumsan libero, mattis per erat habitasse cubilia ligula penatibus curae. Sagittis lorem augue arcu blandit libero molestie non ullamcorper, finibus imperdiet iaculis ad quam per luctus neque, ligula curae mauris parturient diam auctor eleifend laoreet ridiculus, hendrerit adipiscing sociosqu pretium nec velit aliquam. Inceptos egestas maecenas imperdiet eget id donec nisl curae congue, massa tortor vivamus ridiculus integer porta ultrices venenatis aliquet, curabitur et posuere blandit magnis dictum auctor lacinia, eleifend dolor in ornare vulputate ipsum morbi felis. Faucibus cursus malesuada orci ultrices diam nisl taciti torquent, tempor eros suspendisse euismod condimentum dis velit mi tristique, a quis etiam dignissim dictum porttitor lobortis ad fermentum, sapien consectetur dui dolor purus elit pharetra. Interdum mattis sapien ac orci vestibulum vulputate laoreet proin hac, maecenas mollis ridiculus morbi praesent cubilia vitae ligula vel, sem semper volutpat curae mauris justo nisl luctus, non eros primis ultrices nascetur erat varius integer.",
+        "description": "Asparagus densiflorus, the asparagus fern, plume asparagus or foxtail fern, is a variable evergreen perennial plant, closely related to the vegetable asparagus. It is native to southern Africa, from Mozambique to South Africa, but is widely cultivated.",
         "imageName": "silversalmoncreek"
     },
     {
@@ -40,6 +42,7 @@
         "city": "Skagway",
         "state": "Healthy",
         "id": 1003,
+        "waterLevel": 0.93,
         "isFeatured": false,
         "isFavorite": true,
         "park": "Klondike Gold Rush National Historical Park",
@@ -47,7 +50,7 @@
             "longitude": -135.334571,
             "latitude": 59.560551
         },
-        "description": "Suscipit inceptos est felis purus aenean aliquet adipiscing diam venenatis, augue nibh duis neque aliquam tellus condimentum sagittis vivamus, cras ante etiam sit conubia elit tempus accumsan libero, mattis per erat habitasse cubilia ligula penatibus curae. Sagittis lorem augue arcu blandit libero molestie non ullamcorper, finibus imperdiet iaculis ad quam per luctus neque, ligula curae mauris parturient diam auctor eleifend laoreet ridiculus, hendrerit adipiscing sociosqu pretium nec velit aliquam. Inceptos egestas maecenas imperdiet eget id donec nisl curae congue, massa tortor vivamus ridiculus integer porta ultrices venenatis aliquet, curabitur et posuere blandit magnis dictum auctor lacinia, eleifend dolor in ornare vulputate ipsum morbi felis. Faucibus cursus malesuada orci ultrices diam nisl taciti torquent, tempor eros suspendisse euismod condimentum dis velit mi tristique, a quis etiam dignissim dictum porttitor lobortis ad fermentum, sapien consectetur dui dolor purus elit pharetra. Interdum mattis sapien ac orci vestibulum vulputate laoreet proin hac, maecenas mollis ridiculus morbi praesent cubilia vitae ligula vel, sem semper volutpat curae mauris justo nisl luctus, non eros primis ultrices nascetur erat varius integer.",
+        "description": "Monsonstera adansonii, the Adanson's monstera, Swiss cheese plant, or five holes plant, is a species of flowering plant from family Araceae which is widespread across much of South America and Central America. Besides South American countries it can also be found in the West Indies on islands such as Antigua, Grenada, Saba, St. Kitts, Guadeloupe, Marie Galante, Dominica, Martinique, St. Lucia, St. Vincent, Tobago, and Trinidad. The species is quite common near river valleys at lower elevations",
         "imageName": "chilkoottrail"
     }
 ]

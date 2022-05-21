@@ -9,16 +9,17 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-
+        
         PlantList()
-     
+        //BluetoothView()
+        
     }
 }
 
 struct ContentView_Previews: PreviewProvider {
     static var previews: some View {
         ContentView()
-            .preferredColorScheme(.dark)
-            
+        
+        
     }
 }

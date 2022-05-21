@@ -1,11 +1,11 @@
 {
   "images" : [
     {
+      "filename" : "Gaia_Logo.jpg",
       "idiom" : "universal",
       "scale" : "1x"
     },
     {
-      "filename" : "chilkoottrail.jpg",
       "idiom" : "universal",
       "scale" : "2x"
     },

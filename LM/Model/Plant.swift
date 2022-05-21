@@ -10,6 +10,7 @@ import CoreLocation
 
 struct Plant: Hashable, Codable, Identifiable {
     var id: Int
+    var waterLevel: Float
     var name: String
     var park: String
     var state: String
